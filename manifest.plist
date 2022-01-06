@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                  <!---Bitte nachfolgende URL ersetzen (Magnolia-URL eintragen)---->
+                  <!---Bitte nachfolgende URL ersetzen (Magnolia-URL eintragen)-->
                    <string>https://mseepe.github.io/SiNNTeam.ipa</string>
                </dict>
            </array>
