@@ -13,7 +13,7 @@
                    <key>url</key>
                   <!---URL zeigt auf den Speicherort des .ipa-Packages-->
                   <!---Bitte nachfolgende URL ersetzen (Magnolia-URL eintragen)-->
-                   <string>https://mseepe.github.io/sinn_team_xresign.ipa</string>
+                   <string>https://mseepe.github.io/SiNNTeam.ipa</string>
                </dict>
            </array>
            <key>metadata</key>
