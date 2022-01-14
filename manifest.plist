@@ -13,7 +13,7 @@
                    <key>url</key>
                   <!---URL zeigt auf den Speicherort des .ipa-Packages-->
                   <!---Bitte nachfolgende URL ersetzen (Magnolia-URL eintragen)-->
-                   <string>https://mseepe.github.io/sinn.ipa</string>
+                   <string>https://mseepe.github.io/SiNNTeam.ipa</string>
                </dict>
               <dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
                <key>kind</key>
                <string>software</string>
                <key>platform-identifier</key>
-				   <string>com.apple.platform.iphoneos</string>
+	       <string>com.apple.platform.iphoneos</string>
                <key>title</key>
                <string>SiNN TeamApp</string>
            </dict>
